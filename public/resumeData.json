@@ -48,10 +48,10 @@
     "skillmessage": "Strong experience in developing and deploying machine learning models using Python, including experience with popular frameworks such as PyTorch and TensorFlow. Experience in building and deploying large language models (LLMs) for various applications, including chatbots and language translation.",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "IU",
+        "degree": "Bachelor's Degree, Applied Artificial Intelligence",
+        "graduated": "Inprogress",
+        "description": "Working on AI"
       }
     ],
     "work": [
