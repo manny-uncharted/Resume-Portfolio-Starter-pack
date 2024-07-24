@@ -1,51 +1,51 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Emmanuel Akanji",
+    "occupation": "AI Engineer",
+    "description": "I build AI applications and solutions",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Manny, a seasoned Software Engineer and Machine Learning Specialist with a passion for turning complex business challenges into scalable, cutting-edge technology solutions. My expertise spans AI-driven solutions, machine learning model development, and backend system architecture, with a robust skill set in Python, Golang, and cloud technologies. Throughout my career in both startup environments and large-scale projects, I have led impactful initiatives that have increased agricultural efficiency by 30%, enhanced customer service through intelligent chatbots, and refined risk assessment processes for financial services. My commitment lies in leveraging ethical AI to craft user-centric solutions that not only improve operational efficiency and drive business growth but also contribute to a more progressive future. I thrive in environments that value innovation and am dedicated to providing rapid deployment and high-quality software development, allowing you to focus on your core business. If you're looking to transform your business with technology and need a dedicated partner to bring your vision to life, let's connect and explore the possibilities..",
+    "contactmessage": "Get in touch with me to if you're looking to transform your business with AI technology and need a dedicated partner to bring your vision to life",
+    "email": "omoebun52@gmail.com",
+    "phone": "+2349018536111",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "street": "8 Thompson Avenue",
+      "city": "Remote",
+      "state": "Remote",
       "zip": "W3B D3V"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1Tf8ke2hmefuMWcYNMKoiWmjHS5nHxVow/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "#",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "#",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/emmanuel-akanji-o/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/mannyuncharted/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/manny-uncharted",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Strong experience in developing and deploying machine learning models using Python, including experience with popular frameworks such as PyTorch and TensorFlow. Experience in building and deploying large language models (LLMs) for various applications, including chatbots and language translation.",
     "education": [
       {
         "school": "University of Kent - UK",
@@ -56,54 +56,143 @@
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "TaoAI",
+        "title": "Machine Learning Engineer | Machine Learning",
+        "years": "2023 - present",
+        "description": "Led the fine-tuning and pruning of a large language model for agriculture, improving efficiency by 30% and reducing operational costs by 50%. Architected and implemented the backend infrastructure for a sophisticated chatbot system, integrating API development and deployment. Managed transition from an 8-GPU setup to a 4-GPU configuration, maintaining performance while reducing hardware costs. Oversaw ongoing management and optimization of the chatbot system, ensuring robust performance and user satisfaction."
+      },
+      {
+        "company": "pplrepairshub",
+        "title": "AI Engineer | Contract",
+        "years": "2023 - 2023",
+        "description": "Developed and deployed a customer service chatbot leveraging OpenAI's GPT-3.5, enhancing customer interaction and service efficiency by 40%. Integrated the chatbot with the company's database for real-time, personalized responses, reducing human workload by 40%. Implemented API integrations for seamless communication between the chatbot and existing customer service systems."
+      },
+      {
+        "company": "Astora",
+        "title": "Co-founder",
+        "years": "2021 - 2023",
+        "description": "Developing ML-driven solutions for Pay Later companies, improving client risk assessment accuracy by 20%. Designed and built regression and classification models for client risk assessment. Spearheaded the backend infrastructure setup using Docker, AWS, and Terraform, ensuring scalability and reliability."
+      },
+      {
+        "company": "National Institute for Policy and Strategic Studies",
+        "title": "Software Engineer (Volunteer)",
+        "years": "2022 - 2023",
+        "description": "Led digital transformation initiatives, developing management systems to transition from paper-based to digital recordkeeping. Implemented a digital system for the institute\u2019s clinic, enhancing patient record management and streamlining services. Developed a digital platform for educational purposes, facilitating efficient storage and management of participant records."
+      },
+      {
+        "company": "Doos Coporation",
+        "title": "Machine Learning Engineer",
+        "years": "2022 - 2024",
+        "description": "Developed advanced predictive machine learning models for various use cases. Managed the handover process to ensure a clear understanding of model functionality and integration requirements."
+      },
+      {
+        "company": "Upwork",
+        "title": "Freelance Python Developer",
+        "years": "2021 - present",
+        "description": "Recently developed a comprehensive backend infrastructure for Havefun, a dating company, showcasing expertise in API development and scalable system design. Specialized in crafting robust backend solutions using Python and SQL, Docker, Terraform, contributing to the success of client products and services. Consistently delivered custom software solutions to a diverse range of clients, meeting stringent deadlines and surpassing quality benchmarks. Excelled in translating complex client requirements into practical, efficient development plans, ensuring a clear understanding of project goals and expectations. Demonstrated exceptional organizational and time-management skills by successfully managing multiple projects simultaneously, maintaining high-quality standards in fast-paced environments."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Python",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Golang",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "95%"
+      },
+      {
+        "name": "Web Dev (HTML, CSS, TypeScript, FastAPI)",
+        "level": "80%"
+      },
+      {
+        "name": "PyTorch",
+        "level": "90%"
+      },
+      {
+        "name": "TensorFlow",
         "level": "85%"
       },
       {
-        "name": "Git",
+        "name": "JAX",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Langchain",
+        "level": "80%"
       },
       {
-        "name": "Web Development",
+        "name": "LLaMA-Index",
+        "level": "75%"
+      },
+      {
+        "name": "OpenCV",
+        "level": "80%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "70%"
+      },
+      {
+        "name": "Cloud Computing",
+        "level": "85%"
+      },
+      {
+        "name": "SageMaker",
+        "level": "80%"
+      },
+      {
+        "name": "MLflow",
+        "level": "75%"
+      },
+      {
+        "name": "Docker",
         "level": "95%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      },
+      {
+        "name": "LLMs (OpenAI, Claude3, Llama2, Llama3)",
+        "level": "90%"
       }
-    ]
+  ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Azirabot",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "",
+        "url": ""
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Azira - Real-Time Crypto Transactions Monitoring",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "",
+        "url": ""
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Revolutionizing Real Estate: A Language Model-Powered Housing Recommender Chatbot", "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "AWS infrastructure for ACS",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Implementation of the DCGAN paper",
+        "category": "",
+        "image": "",
+        "url": ""
       }
     ]
   },
